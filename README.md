@@ -20,6 +20,7 @@ This project demonstrates a basic implementation of a hotel booking system with 
 ## Running the Program
 
 - Compile and run the program using any Java compiler or IDE.
+  
 Run the Main class  : 
 - View Available Rooms: Lists the rooms with their prices.
 - Make a Reservation: Prompts you for the room number and payment amount.
